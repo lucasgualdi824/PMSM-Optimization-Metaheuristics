@@ -1,1 +1,1 @@
-# PMSM Optimization Through Metaheuristcs
+# Repositório contendo o código-fonte e os dados utilizados para a otimização de máquina síncrona de ímãs permanentes (PMSM) com rotor interno e arranjo Halbach, conforme descrito no relatório final da disciplina EA019 da Faculdade de Engenharia Elétrica e Computação da Universidade Estadual de Campinas.
